@@ -1,4 +1,5 @@
 //RANDRIAMANANA Mendrika Fitia, ESIIA 5 No 15
+//ANDRIATSIROFO Henri Njaka Razafimanantsoa Sandy IGGLIA 5 No 20
 interface Subject{
     registerObserver(o: Observer);
     removeObserver(o: Observer);
