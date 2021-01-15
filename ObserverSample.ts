@@ -1,3 +1,4 @@
+//RANDRIAMANANA Mendrika Fitia, ESIIA 5 No 15
 interface Subject{
     registerObserver(o: Observer);
     removeObserver(o: Observer);
